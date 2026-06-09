@@ -1,0 +1,17 @@
+﻿# Local session artifacts and generated dumps
+.claude/
+.codex-prompts/
+*.png
+*.json
+*.log
+*.err.log
+
+# Keep tracked docs/config data if added later.
+!docs/**/*.png
+!docs/**/*.json
+!docs/**/*.txt
+!**/*.config.json
+!**/package.json
+
+
+
